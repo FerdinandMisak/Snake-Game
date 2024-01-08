@@ -1,0 +1,1 @@
+This game is based on the Snake Game. You have to reach "eat" the dotts with the snake. The scores will be displayed on the window. If you "eat" your own body or if you collide with the wall you lose.
